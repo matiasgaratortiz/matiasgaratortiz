@@ -1,15 +1,15 @@
 {
-  "name": "johnkpaul",
+  "name": "matiasgaratortiz",
   "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "description": "Matias Garat Ortiz, the person",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "cat index.json"
   },
   "keywords": [
     "person",
     "contact"
   ],
-  "author": "John K. Paul",
+  "author": "Matias Garat Ortiz",
   "license": "ISC"
 }
